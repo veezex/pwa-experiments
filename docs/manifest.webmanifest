@@ -1,1 +1,1 @@
-{"name":"pwa-experiments","short_name":"pwa-experiments","start_url":"/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/"}
+{"name":"pwa-experiments","short_name":"pwa-experiments","start_url":"./","display":"standalone","background_color":"#ffffff","lang":"en","scope":"./"}
